@@ -33,3 +33,5 @@ If you drop an item out of the droppable area, this item deleted from the droppa
 You can also switch the draggables.
 
 This project first step of the creating user interface with dnd.
+
+![](https://github.com/fersz1903/React-dndkit-gridDnD/blob/main/public/dndApp.gif)
